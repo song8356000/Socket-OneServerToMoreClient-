@@ -9,3 +9,6 @@ https://blog.csdn.net/yao_hou/article/details/102728970?depth_1-utm_source=distr
 
 2.select函数及fd_set介绍
 https://www.cnblogs.com/wuyepeng/p/9745573.html
+
+3.socket编程accept函数返回值的理解
+https://blog.csdn.net/qq_33573235/article/details/79292679
