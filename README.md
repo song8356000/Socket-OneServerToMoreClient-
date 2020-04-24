@@ -5,3 +5,7 @@
 参考文章：
 1.C++ socket编程select模型 
 https://blog.csdn.net/yao_hou/article/details/102728970?depth_1-utm_source=distribute.pc_relevant.none-task-blog-OPENSEARCH-1&utm_source=distribute.pc_relevant.none-task-blog-OPENSEARCH-1
+
+
+2.select函数及fd_set介绍
+https://www.cnblogs.com/wuyepeng/p/9745573.html
