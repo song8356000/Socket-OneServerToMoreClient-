@@ -15,3 +15,9 @@ https://blog.csdn.net/qq_33573235/article/details/79292679
 
 4.Select函数实现原理分析
 https://blog.csdn.net/liitlefrogyyh/article/details/52104120
+
+5.Windows与Linux下的select网络模型对比分析
+https://blog.csdn.net/qq_30145355/article/details/78342564
+
+6.send和recv只是内核缓冲区和应用程序缓冲区之间的搬运工---严格来讲send和recv并不具备发送和接收功能
+https://blog.csdn.net/stpeace/article/details/43719449
