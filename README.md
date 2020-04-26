@@ -12,3 +12,6 @@ https://www.cnblogs.com/wuyepeng/p/9745573.html
 
 3.socket编程accept函数返回值的理解
 https://blog.csdn.net/qq_33573235/article/details/79292679
+
+4.Select函数实现原理分析
+https://blog.csdn.net/liitlefrogyyh/article/details/52104120
